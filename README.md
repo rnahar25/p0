@@ -37,7 +37,7 @@ $ go test -race -test.run TestBasic1
 **Our reference solution was tested on the AFS clusters, so we strongly recommend that you test your solution on AFS before submitting.**
 ## Submission
 
-Submit the `kvserver_impl.go` file on Autolab. **Do not change the name of the file as this will cause the tests to fail.**
+Submit the `server_impl.go` file on Autolab. **Do not change the name of the file as this will cause the tests to fail.**
 
 ## Testing your implementation using `srunner`
 
